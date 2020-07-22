@@ -25,5 +25,6 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 📕 **Blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to Functional Programming with Javascript — part 1](https://medium.com/dev-genius/introduction-to-functional-programming-in-javascript-e33fe8e94ed6?source=rss-3d2bb20c836------2)
 - [What music do you like to listen while coding? Here are some of my personal favourites that help me get "in the zone".](https://dev.to/ispoljari/what-music-do-you-like-to-listen-while-coding-here-are-some-of-my-personal-favourites-that-help-me-get-into-the-zone-3ie9)
 <!-- BLOG-POST-LIST:END -->
