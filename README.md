@@ -25,4 +25,5 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 📕 **Blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [What music do you like to listen while coding? Here are some of my personal favourites that help me get "in the zone".](https://dev.to/ispoljari/what-music-do-you-like-to-listen-while-coding-here-are-some-of-my-personal-favourites-that-help-me-get-into-the-zone-3ie9)
 <!-- BLOG-POST-LIST:END -->
