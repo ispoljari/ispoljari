@@ -1,5 +1,6 @@
 ### Hi there 👋 My name is Ivan Spoljaric
 
+Some interesting facts about me:
 
 - 💻 Working as a **Javascript Developer** for **[Comsysto Reply](https://comsystoreply.de/)**
 - 🌱 I’m currently learning FP with JS and deep diving into Node.js
