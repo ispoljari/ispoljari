@@ -10,8 +10,6 @@ Some interesting facts about me:
 - 📫 How to reach me: [@ivanspoljaric](https://www.linkedin.com/in/ivan-špoljarić-2206a184)
 - ⚡ Fun fact: Bears. Beets. Battlestar Galactica.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=ispoljari&show_icons=true&theme=radical&hide=["contribs","issues"])
-
 💻 **This week I worked with**
 <!--START_SECTION:waka-->
 ```text
