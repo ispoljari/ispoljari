@@ -21,7 +21,6 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 📕 **Blog posts**
 <!-- BLOG-POST-LIST:START -->
 - [I just submitted my first PR for Hacktoberfest 2020](https://dev.to/ispoljari/i-just-submitted-my-first-pr-for-hacktoberfest-2020-3fgd)
-- [I just updated my first NPM package to version 2.0.0. This might not be the most important library ever created.](https://dev.to/ispoljari/i-just-updated-my-first-npm-package-to-version-2-0-0-this-might-be-the-most-important-library-ever-created-149n)
 - [I just created my first NPM package. It ain't much but it's honest work](https://dev.to/ispoljari/i-just-created-my-first-npm-package-it-ain-t-much-but-it-s-honest-work-5h94)
 - [An Introduction to Functional Programming with Javascript — part 1](https://medium.com/dev-genius/introduction-to-functional-programming-in-javascript-e33fe8e94ed6?source=rss-3d2bb20c836------2)
 - [What music do you like to listen while coding? Here are some of my personal favourites that help me get "in the zone".](https://dev.to/ispoljari/what-music-do-you-like-to-listen-while-coding-here-are-some-of-my-personal-favourites-that-help-me-get-into-the-zone-3ie9)
