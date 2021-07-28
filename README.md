@@ -5,7 +5,7 @@
 Some interesting facts about me:
 
 - 🔭 Working as a **Software Developer** for **[Comsysto Reply](https://comsystoreply.de/)**
-- 🌱 I’m currently taking a deep dive into FP with JS and "vanilla" Node.js.
+- 🌱 Trying to master reactive programming with RxJs (in Angular).
 - 💬 You can ask me about Javascript / Typescript / React / Angular / Node.js 
 - 📫 How to reach me: [@ivanspoljaric](https://www.linkedin.com/in/ivan-špoljarić-2206a184)
 - ⚡ Fun fact: Bears. Beets. Battlestar Galactica.
