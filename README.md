@@ -23,7 +23,6 @@ GraphQL      6 mins          ▒░░░░░░░░░░░░░░░░
 
 📕 **Blog posts**
 <!-- BLOG-POST-LIST:START -->
-- [How to unit test Vuex modules defined with the vuex-module-decorators syntax in Nuxt, using…](https://ivanspoljaric22.medium.com/how-to-unit-test-vuex-modules-defined-with-the-vuex-module-decorators-syntax-in-nuxt-using-52d52b006175?source=rss-3d2bb20c836------2)
 - [How to unit test Vuex modules defined with the vuex-module-decorators syntax in Nuxt,  using vue-test-utils and Jest?](https://dev.to/ispoljari/how-to-unit-test-vuex-modules-defined-with-the-vuex-module-decorators-syntax-in-nuxt-using-vue-test-utils-and-jest-3n7p)
 - [How to test Nuxt store and VuexModule's using vue-test-utils and Jest?](https://dev.to/ispoljari/how-to-test-nuxt-store-and-vuexmodule-s-using-vue-test-utils-and-jest-4p08)
 - [I tried to mount a client-side "attack" on a news website poll by using only Javascript. And I failed miserably.](https://dev.to/ispoljari/i-tried-to-mount-a-client-side-attack-on-a-news-website-poll-by-using-only-javascript-and-i-failed-miserably-1ebf)
