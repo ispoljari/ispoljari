@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+[![wakatime](https://wakatime.com/badge/user/d814b522-960b-4b56-a5bd-08e2c29ed137.svg)](https://wakatime.com/@d814b522-960b-4b56-a5bd-08e2c29ed137)
+
 ### My name is Ivan Spoljaric.
 
 Some interesting facts about me:
