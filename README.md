@@ -10,7 +10,7 @@ Some interesting facts about me:
 - 🌱 Currently learning Vue.js and Nuxt
 - 💬 You can ask me about Javascript / Typescript / React / Angular / Node.js 
 - 📫 How to reach me: [@ivanspoljaric](https://www.linkedin.com/in/ivan-špoljarić-2206a184)
-- ⚡ Fun fact: Bears. Beets. Battlestar Galactica.
+- 🚀 So say we all
 
 💻 **This week I worked with**
 <!--START_SECTION:waka-->
