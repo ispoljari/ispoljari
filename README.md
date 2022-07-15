@@ -6,8 +6,7 @@
 
 Some interesting facts about me:
 
-- 🔭 Working as a **Software Developer** for **[Comsysto Reply](https://comsystoreply.de/)**
-- 🌱 Currently learning Flutter
+- 🔭 Working as a **Freelance Software Developer** @ **[Toptal](https://www.toptal.com/)**
 - 💬 You can ask me about Javascript / Typescript / React / Angular / Vue / Node.js
 - 📫 How to reach me: [@ivanspoljaric](https://www.linkedin.com/in/ivan-špoljarić-2206a184)
 
