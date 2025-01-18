@@ -6,8 +6,8 @@
 
 Some interesting facts about me:
 
-- 🔭 Working as a **Freelance Software Developer** @ **[Toptal](https://www.toptal.com/)**
-- 💬 You can ask me about Javascript / Typescript / React / Angular / Vue / Node.js
+- 🔭 Working as a **Freelance Software Developer** @ **Neptune & Tech**
+- 💬 You can ask me about Javascript / Typescript / React / Next.js | Angular / Vue / Node.js
 - 📫 How to reach me: [@ivanspoljaric](https://www.linkedin.com/in/ivan-špoljarić-2206a184)
 
 💻 **This week I worked with**
@@ -21,6 +21,8 @@ JSON         10 mins         ▓░░░░░░░░░░░░░░░░
 
 📕 **Blog posts**
 - [How to unit test Vuex modules defined with the vuex-module-decorators syntax in Nuxt,  using vue-test-utils and Jest?](https://dev.to/ispoljari/how-to-unit-test-vuex-modules-defined-with-the-vuex-module-decorators-syntax-in-nuxt-using-vue-test-utils-and-jest-3n7p)
-- [I tried to mount a client-side "attack" on a news website poll by using only Javascript. And I failed miserably.](https://dev.to/ispoljari/i-tried-to-mount-a-client-side-attack-on-a-news-website-poll-by-using-only-javascript-and-i-failed-miserably-1ebf)
 - [How to create an Angular NavBar with a dynamic slider (and keep your sanity)](https://dev.to/ispoljari/one-must-imagine-people-who-work-with-angular-happy-or-how-to-create-a-navbar-with-a-dynamic-slider-and-keep-your-sanity-3la)
 - [An Introduction to Functional Programming with JavaScript — part 1](https://blog.devgenius.io/introduction-to-functional-programming-in-javascript-e33fe8e94ed6)
+- [An Introduction to Functional Programming with JavaScript — part 2](https://blog.devgenius.io/functional-programming-with-javascript-part-2-7b8fbd920d6a)
+- [3 TypeScript patterns that I use in my day-to-day work](https://blog.devgenius.io/3-typescript-patterns-that-i-use-in-my-day-to-day-work-97f10497cbaf)
+
