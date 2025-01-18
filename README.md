@@ -6,9 +6,9 @@
 
 Some interesting facts about me:
 
-- 🔭 Working as a **Freelance Software Developer** @ **Neptune & Tech**
+- 🔭 Working as a **Freelance Software Developer** @ **Neptune & Tech** 
 - 💬 You can ask me about Javascript / Typescript / React / Next.js | Angular / Vue / Node.js
-- 📫 How to reach me: [@ivanspoljaric](https://www.linkedin.com/in/ivan-špoljarić-2206a184)
+- 📫 How to reach me: [@ivanspoljaric](https://www.linkedin.com/in/ivan-spoljaric-2206a184)
 
 💻 **This week I worked with**
 <!--START_SECTION:waka-->
@@ -26,3 +26,4 @@ JSON         10 mins         ▓░░░░░░░░░░░░░░░░
 - [An Introduction to Functional Programming with JavaScript — part 2](https://blog.devgenius.io/functional-programming-with-javascript-part-2-7b8fbd920d6a)
 - [3 TypeScript patterns that I use in my day-to-day work](https://blog.devgenius.io/3-typescript-patterns-that-i-use-in-my-day-to-day-work-97f10497cbaf)
 
+[![image](https://github.com/user-attachments/assets/795cfe82-0f7a-443a-a310-c6d90ef68d01)](https://www.toptal.com/resume/ivan-spoljaric)
