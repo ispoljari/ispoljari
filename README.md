@@ -5,7 +5,7 @@
 Some interesting facts about me:
 
 - 🔭 Working as a **Freelance Software Developer** @ **Neptune & Tech** 
-- 💬 You can ask me about Javascript / Typescript / React / Next.js | Angular / Vue / Node.js
+- 💬 You can ask me about Javascript / Typescript / React / Next.js | Angular / Vue / Node.js / Nest.js / GraphQL / Python / FastAPI
 - 📫 How to reach me: [@ivanspoljaric](https://www.linkedin.com/in/ivan-spoljaric-2206a184)
 
 From 2022. - 2025. accumulated around 6500 software development hours working as a remote contractor for clients like BCG. 
