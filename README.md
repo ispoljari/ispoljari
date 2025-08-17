@@ -6,10 +6,10 @@ Some interesting facts about me:
 
 - 🔭 Working as a **Freelance Software Developer** @ **Neptune & Tech** 
 - 💬 You can ask me about Javascript / Typescript / React / Next.js | Angular / Vue / Node.js / Nest.js / GraphQL / Python / FastAPI
-- 📫 How to reach me: [@ivanspoljaric](https://www.linkedin.com/in/ivan-spoljaric-2206a184)
+- From 2019. - 2022. I've worked as a software developer in various agencies for enterprise clients like VW, Audi, TeamViewer...
+- From 2022. - 2025. accumulated around 6500 software development hours working as a remote contractor for clients like BCG.
 
-From 2019. - 2022. I've worked as a software developer in various agencies for enterprise clients like VW, Audi, TeamViewer ....
-From 2022. - 2025. accumulated around 6500 software development hours working as a remote contractor for clients like BCG. 
+📫 How to reach me: [@ivanspoljaric](https://www.linkedin.com/in/ivan-spoljaric-2206a184)
 
 [![image](https://github.com/user-attachments/assets/795cfe82-0f7a-443a-a310-c6d90ef68d01)](https://www.toptal.com/resume/ivan-spoljaric)
 
